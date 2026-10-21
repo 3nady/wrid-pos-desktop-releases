@@ -1,13 +1,13 @@
 {
   "app": "Wrid POS Desktop",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "platform": "windows-x64",
   "min_os": "Windows 10 64-bit",
-  "file_name": "WridPos-0.1.2-x64.msi",
-  "size_bytes": 53264384,
-  "sha256": "9d65f1b4d5b910cbb074a88a09e2b0511b05c9c393df541cf96ac4fc750df400",
-  "download_url": "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.1.2/WridPos-0.1.2-x64.msi",
-  "release_page": "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.1.2",
-  "silent_install": "msiexec /i WridPos-0.1.2-x64.msi /qn",
-  "released_at": "2026-10-16"
+  "file_name": "WridPos-0.2.0-x64.msi",
+  "size_bytes": 53362688,
+  "sha256": "641bb4c07d032a5f57616c5f12941d18ecf4158fa5b75c9c055ce1a17e524057",
+  "download_url": "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.0/WridPos-0.2.0-x64.msi",
+  "release_page": "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.2.0",
+  "silent_install": "msiexec /i WridPos-0.2.0-x64.msi /qn",
+  "released_at": "2026-10-21"
 }
