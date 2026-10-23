@@ -1,18 +1,18 @@
 {
   "app": "Wrid POS Desktop",
-  "version": "0.2.2",
-  "download_url": "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.2/WridPos-0.2.2-x64.msi",
-  "release_page": "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.2.2",
-  "file_name": "WridPos-0.2.2-x64.msi",
-  "size_bytes": 53391360,
-  "sha256": "8524021f0a3debde4fe4576d31ee7f131f08549071c596f636b0eb74fc5092ab",
+  "version": "0.2.3",
+  "download_url": "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.3/WridPos-0.2.3-x64.msi",
+  "release_page": "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.2.3",
+  "file_name": "WridPos-0.2.3-x64.msi",
+  "size_bytes": 53383168,
+  "sha256": "3ee64fcee40e213dd3c5907e84ca27f1d4c1df5e4b4c0c5056300541d5377886",
   "title": {
     "ar": "تثبيت وريد POS على جهاز Windows",
     "en": "Installing Wrid POS on a Windows PC"
   },
   "subtitle": {
-    "ar": "الإصدار 0.2.2 · Windows 10 و 11",
-    "en": "Version 0.2.2 · Windows 10 and 11"
+    "ar": "الإصدار 0.2.3 · Windows 10 و 11",
+    "en": "Version 0.2.3 · Windows 10 and 11"
   },
   "default_language": "ar",
   "sections": [
@@ -55,22 +55,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "ar": "ملف التثبيت اسمه WridPos-0.2.2-x64.msi (حوالي 50 ميجابايت). احصل عليه بإحدى الطريقتين:",
-          "en": "The installer is WridPos-0.2.2-x64.msi (about 50 MB). Get it one of two ways:"
+          "ar": "ملف التثبيت اسمه WridPos-0.2.3-x64.msi (حوالي 50 ميجابايت). احصل عليه بإحدى الطريقتين:",
+          "en": "The installer is WridPos-0.2.3-x64.msi (about 50 MB). Get it one of two ways:"
         },
         {
           "type": "steps",
           "ar": [
-            "رابط مباشر (الأسهل): تنزيل WridPos-0.2.2-x64.msi\nhttps://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.2/WridPos-0.2.2-x64.msi\nالرابط عام ولا يحتاج تسجيل دخول. صفحة الإصدار: v0.2.2",
+            "رابط مباشر (الأسهل): تنزيل WridPos-0.2.3-x64.msi\nhttps://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.3/WridPos-0.2.3-x64.msi\nالرابط عام ولا يحتاج تسجيل دخول. صفحة الإصدار: v0.2.3",
             "نسخ مباشر: انسخ الملف بذاكرة USB من الجهاز الذي بُني عليه، من المجلد D:\\Wrid System\\WridPOS\\desktop\\artifacts\\."
           ],
           "en": [
-            "Direct link (easiest): Download WridPos-0.2.2-x64.msi\nhttps://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.2/WridPos-0.2.2-x64.msi\nThe link is public, no sign-in needed. Release page: v0.2.2",
+            "Direct link (easiest): Download WridPos-0.2.3-x64.msi\nhttps://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.3/WridPos-0.2.3-x64.msi\nThe link is public, no sign-in needed. Release page: v0.2.3",
             "Direct copy: copy the file on a USB stick from the PC it was built on, folder D:\\Wrid System\\WridPOS\\desktop\\artifacts\\."
           ],
           "links": [
-            "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.2/WridPos-0.2.2-x64.msi",
-            "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.2.2"
+            "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.3/WridPos-0.2.3-x64.msi",
+            "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.2.3"
           ]
         }
       ]
@@ -86,19 +86,31 @@
         {
           "type": "steps",
           "ar": [
-            "انقر نقراً مزدوجاً على WridPos-0.2.2-x64.msi.",
+            "انقر نقراً مزدوجاً على WridPos-0.2.3-x64.msi.",
             "إذا ظهرت نافذة «حمى Windows جهاز الكمبيوتر» (SmartScreen): اضغط «مزيد من المعلومات» ثم «تشغيل على أي حال». تظهر لأن الملف غير موقّع رقمياً بعد.",
-            "في نافذة الترحيب اضغط Next. اترك مجلد التثبيت كما هو (C:\\Program Files\\Wrid POS) واضغط Next ثم Install.",
+            "في نافذة الترحيب اضغط Next. اترك مجلد التثبيت كما هو (C:\\Program Files\\Wrid POS) واضغط Next.",
+            "في صفحة «خيارات التثبيت» اختر: «إنشاء اختصار على سطح المكتب» (مفعّل افتراضياً) و«التشغيل تلقائياً مع بدء Windows» (غير مفعّل افتراضياً). اضغط Next ثم Install.",
             "وافق على طلب صلاحية المسؤول (UAC) بالضغط على نعم.",
-            "عند الانتهاء اضغط Finish. ستجد اختصار «وريد - Wrid POS» على سطح المكتب وفي قائمة ابدأ."
+            "عند الانتهاء اترك «تشغيل البرنامج الآن» مفعّلاً ليفتح البرنامج مباشرة، واضغط Finish. ستجد «وريد - Wrid POS» في قائمة ابدأ، وعلى سطح المكتب إذا اخترت الاختصار."
           ],
           "en": [
-            "Double-click WridPos-0.2.2-x64.msi.",
+            "Double-click WridPos-0.2.3-x64.msi.",
             "If \"Windows protected your PC\" (SmartScreen) appears: click More info, then Run anyway. It shows because the file is not code-signed yet.",
-            "On the welcome page click Next. Keep the install folder (C:\\Program Files\\Wrid POS), click Next, then Install.",
+            "On the welcome page click Next. Keep the install folder (C:\\Program Files\\Wrid POS) and click Next.",
+            "On the Install options page choose \"Create a desktop shortcut\" (on by default) and \"Start with Windows\" (off by default). Click Next, then Install.",
             "Accept the administrator prompt (UAC) with Yes.",
-            "Click Finish. A \"وريد - Wrid POS\" shortcut is on the desktop and in the Start menu."
+            "Leave \"Launch now\" ticked to open the app right away, and click Finish. \"وريد - Wrid POS\" is in the Start menu, and on the desktop if you chose the shortcut."
           ]
+        },
+        {
+          "type": "note",
+          "tone": "info",
+          "title": {
+            "ar": "نسخة واحدة فقط",
+            "en": "One copy at a time"
+          },
+          "ar": "يعمل البرنامج مرة واحدة فقط على الجهاز. إذا كان مفتوحاً (مثلاً بدأ مع Windows) وفتحته من الاختصار، تظهر نافذته المفتوحة بدلاً من فتح نسخة ثانية.",
+          "en": "The app runs once per PC session. If it is already open (for example it started with Windows) and you open it from a shortcut, the open window comes to the front instead of a second copy."
         },
         {
           "type": "heading",
@@ -112,7 +124,16 @@
         },
         {
           "type": "code",
-          "text": "msiexec /i WridPos-0.2.2-x64.msi /qn"
+          "text": "msiexec /i WridPos-0.2.3-x64.msi /qn"
+        },
+        {
+          "type": "paragraph",
+          "ar": "الافتراضي: اختصار على سطح المكتب، وبدون التشغيل مع Windows. لتغيير ذلك أضف DESKTOP_SHORTCUT=0 لإلغاء الاختصار، أو START_WITH_WINDOWS=1 ليبدأ البرنامج مع Windows:",
+          "en": "By default it adds a desktop shortcut and does not start with Windows. Add DESKTOP_SHORTCUT=0 to skip the shortcut, or START_WITH_WINDOWS=1 to start the app with Windows:"
+        },
+        {
+          "type": "code",
+          "text": "msiexec /i WridPos-0.2.3-x64.msi /qn DESKTOP_SHORTCUT=0 START_WITH_WINDOWS=1"
         }
       ]
     },
@@ -309,12 +330,12 @@
         {
           "type": "list",
           "ar": [
-            "التحديث: شغّل ملف MSI للإصدار الأحدث بنفس الطريقة. يحلّ محل القديم مباشرة وتبقى الجلسة والإعدادات والطابعات كما هي. لا داعي لإزالة القديم أولاً.",
+            "التحديث: شغّل ملف MSI للإصدار الأحدث بنفس الطريقة. يحلّ محل القديم مباشرة وتبقى الجلسة والإعدادات والطابعات كما هي، وتظهر خيارات التثبيت كما اخترتها في المرة السابقة. لا داعي لإزالة القديم أولاً.",
             "الإزالة: الإعدادات ← التطبيقات ← «وريد - Wrid POS» ← إلغاء التثبيت.",
             "بيانات المستخدم (الجلسة، الإعدادات، الطابعات، البيانات المحفوظة، السجلات) في %LOCALAPPDATA%\\WridPos، ولا تُحذف عند الإزالة. احذف المجلد يدوياً لإزالتها بالكامل."
           ],
           "en": [
-            "Update: run the newer version's MSI the same way. It replaces the old one in place; the session, settings and printers are kept. No need to uninstall first.",
+            "Update: run the newer version's MSI the same way. It replaces the old one in place; the session, settings and printers are kept, and the install options show your previous choices. No need to uninstall first.",
             "Remove: Settings → Apps → \"وريد - Wrid POS\" → Uninstall.",
             "User data (session, settings, printers, saved data, logs) is in %LOCALAPPDATA%\\WridPos and is not deleted on uninstall. Delete that folder by hand to remove it completely."
           ]
@@ -413,7 +434,7 @@
     }
   ],
   "footer": {
-    "ar": "وريد - Wrid POS · نسخة سطح المكتب 0.2.2 · الدعم عبر واتساب: +966 55 690 0966",
-    "en": "وريد - Wrid POS · Desktop 0.2.2 · WhatsApp support: +966 55 690 0966"
+    "ar": "وريد - Wrid POS · نسخة سطح المكتب 0.2.3 · الدعم عبر واتساب: +966 55 690 0966",
+    "en": "وريد - Wrid POS · Desktop 0.2.3 · WhatsApp support: +966 55 690 0966"
   }
 }
