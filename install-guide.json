@@ -1,9 +1,9 @@
 {
   "app": "Wrid POS Desktop",
-  "version": "0.2.4",
-  "download_url": "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.4/WridPos-0.2.4-x64.msi",
-  "release_page": "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.2.4",
-  "file_name": "WridPos-0.2.4-x64.msi",
+  "version": "0.2.5",
+  "download_url": "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.5/WridPos-0.2.5-x64.msi",
+  "release_page": "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.2.5",
+  "file_name": "WridPos-0.2.5-x64.msi",
   "size_bytes": 53383168,
   "sha256": "3ee64fcee40e213dd3c5907e84ca27f1d4c1df5e4b4c0c5056300541d5377886",
   "title": {
@@ -11,8 +11,8 @@
     "en": "Installing Wrid POS on a Windows PC"
   },
   "subtitle": {
-    "ar": "الإصدار 0.2.4 · Windows 10 و 11",
-    "en": "Version 0.2.4 · Windows 10 and 11"
+    "ar": "الإصدار 0.2.5 · Windows 10 و 11",
+    "en": "Version 0.2.5 · Windows 10 and 11"
   },
   "default_language": "ar",
   "sections": [
@@ -55,22 +55,22 @@
       "blocks": [
         {
           "type": "paragraph",
-          "ar": "ملف التثبيت اسمه WridPos-0.2.4-x64.msi (حوالي 50 ميجابايت). احصل عليه بإحدى الطريقتين:",
-          "en": "The installer is WridPos-0.2.4-x64.msi (about 50 MB). Get it one of two ways:"
+          "ar": "ملف التثبيت اسمه WridPos-0.2.5-x64.msi (حوالي 50 ميجابايت). احصل عليه بإحدى الطريقتين:",
+          "en": "The installer is WridPos-0.2.5-x64.msi (about 50 MB). Get it one of two ways:"
         },
         {
           "type": "steps",
           "ar": [
-            "رابط مباشر (الأسهل): تنزيل WridPos-0.2.4-x64.msi\nhttps://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.4/WridPos-0.2.4-x64.msi\nالرابط عام ولا يحتاج تسجيل دخول. صفحة الإصدار: v0.2.4",
+            "رابط مباشر (الأسهل): تنزيل WridPos-0.2.5-x64.msi\nhttps://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.5/WridPos-0.2.5-x64.msi\nالرابط عام ولا يحتاج تسجيل دخول. صفحة الإصدار: v0.2.5",
             "نسخ مباشر: انسخ الملف بذاكرة USB من الجهاز الذي بُني عليه، من المجلد D:\\Wrid System\\WridPOS\\desktop\\artifacts\\."
           ],
           "en": [
-            "Direct link (easiest): Download WridPos-0.2.4-x64.msi\nhttps://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.4/WridPos-0.2.4-x64.msi\nThe link is public, no sign-in needed. Release page: v0.2.4",
+            "Direct link (easiest): Download WridPos-0.2.5-x64.msi\nhttps://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.5/WridPos-0.2.5-x64.msi\nThe link is public, no sign-in needed. Release page: v0.2.5",
             "Direct copy: copy the file on a USB stick from the PC it was built on, folder D:\\Wrid System\\WridPOS\\desktop\\artifacts\\."
           ],
           "links": [
-            "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.4/WridPos-0.2.4-x64.msi",
-            "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.2.4"
+            "https://github.com/3nady/wrid-pos-desktop-releases/releases/download/v0.2.5/WridPos-0.2.5-x64.msi",
+            "https://github.com/3nady/wrid-pos-desktop-releases/releases/tag/v0.2.5"
           ]
         }
       ]
@@ -86,7 +86,7 @@
         {
           "type": "steps",
           "ar": [
-            "انقر نقراً مزدوجاً على WridPos-0.2.4-x64.msi.",
+            "انقر نقراً مزدوجاً على WridPos-0.2.5-x64.msi.",
             "إذا ظهرت نافذة «حمى Windows جهاز الكمبيوتر» (SmartScreen): اضغط «مزيد من المعلومات» ثم «تشغيل على أي حال». تظهر لأن الملف غير موقّع رقمياً بعد.",
             "في نافذة الترحيب اضغط Next. اترك مجلد التثبيت كما هو (C:\\Program Files\\Wrid POS) واضغط Next.",
             "في صفحة «خيارات التثبيت» اختر: «إنشاء اختصار على سطح المكتب» (مفعّل افتراضياً) و«التشغيل تلقائياً مع بدء Windows» (غير مفعّل افتراضياً). اضغط Next ثم Install.",
@@ -94,7 +94,7 @@
             "عند الانتهاء اترك «تشغيل البرنامج الآن» مفعّلاً ليفتح البرنامج مباشرة، واضغط Finish. ستجد «وريد - Wrid POS» في قائمة ابدأ، وعلى سطح المكتب إذا اخترت الاختصار."
           ],
           "en": [
-            "Double-click WridPos-0.2.4-x64.msi.",
+            "Double-click WridPos-0.2.5-x64.msi.",
             "If \"Windows protected your PC\" (SmartScreen) appears: click More info, then Run anyway. It shows because the file is not code-signed yet.",
             "On the welcome page click Next. Keep the install folder (C:\\Program Files\\Wrid POS) and click Next.",
             "On the Install options page choose \"Create a desktop shortcut\" (on by default) and \"Start with Windows\" (off by default). Click Next, then Install.",
@@ -124,7 +124,7 @@
         },
         {
           "type": "code",
-          "text": "msiexec /i WridPos-0.2.4-x64.msi /qn"
+          "text": "msiexec /i WridPos-0.2.5-x64.msi /qn"
         },
         {
           "type": "paragraph",
@@ -133,7 +133,7 @@
         },
         {
           "type": "code",
-          "text": "msiexec /i WridPos-0.2.4-x64.msi /qn DESKTOP_SHORTCUT=0 START_WITH_WINDOWS=1"
+          "text": "msiexec /i WridPos-0.2.5-x64.msi /qn DESKTOP_SHORTCUT=0 START_WITH_WINDOWS=1"
         }
       ]
     },
@@ -434,7 +434,7 @@
     }
   ],
   "footer": {
-    "ar": "وريد - Wrid POS · نسخة سطح المكتب 0.2.4 · الدعم عبر واتساب: +966 55 690 0966",
-    "en": "وريد - Wrid POS · Desktop 0.2.4 · WhatsApp support: +966 55 690 0966"
+    "ar": "وريد - Wrid POS · نسخة سطح المكتب 0.2.5 · الدعم عبر واتساب: +966 55 690 0966",
+    "en": "وريد - Wrid POS · Desktop 0.2.5 · WhatsApp support: +966 55 690 0966"
   }
 }
